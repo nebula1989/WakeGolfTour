@@ -1,0 +1,22 @@
+h1{
+    font-family: "Bookman Old Style", sans-serif;
+    color: #222222;
+}
+
+h2{
+    font-family: "Bitstream Vera Sans Mono", Monaco, "Courier New", Courier, monospace;
+    color: dimgrey;
+}
+
+h3{
+    font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+    color: #CC3434;
+}
+li{
+    font-family: "Roboto", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+    color: #222222;
+}
+
+body{
+    background-color: azure;
+}
