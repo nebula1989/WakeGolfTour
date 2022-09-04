@@ -5,6 +5,7 @@
 __pycache__
 db.sqlite3
 media
+wgt_site/settings/config.json
 
 # Backup files #
 *.bak
